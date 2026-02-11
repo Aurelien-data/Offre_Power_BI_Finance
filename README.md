@@ -100,9 +100,6 @@ Analyse de la qualité, de la structure et de l’exploitabilité des données s
 
 ⚠️ Ce repository ne contient **aucune donnée réelle**.
 
-Les exemples de code et de modèles sont fournis à des fins pédagogiques et illustrent une méthodologie appliquée à des environnements comptables PME.  
-Toutes les références clients, sources et structures spécifiques ont été anonymisées.
-
 ---
 
 ## 👤 À propos

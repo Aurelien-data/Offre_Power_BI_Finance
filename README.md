@@ -105,7 +105,7 @@ Analyse de la qualité, de la structure et de l’exploitabilité des données s
 ## 👤 À propos
 
 **Aurélien Prat**  
-Consultant Business Intelligence – APBI  
+Data Analyst BI – APBI  
 
 - Expertise Power BI (Power Query, DAX, modélisation)
 - Expérience terrain en PME industrielle
